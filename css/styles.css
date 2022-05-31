@@ -8,13 +8,6 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-#title {
-  background-color: #ff4c68;
-  color: white;
-
-}
-
-
 .container-fluid{
   padding: 7% 15%;
 
@@ -51,6 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   padding-bottom: 4.5rem;
   margin-left: 100px;
+
 }
 
 .nav-item {
@@ -62,6 +56,19 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 50px;
   margin-bottom: 70px;
 }
+
+/* Title */
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+
+}
+
+#title .container-fluid{
+  padding: 3% 7% 15%;
+}
+
 
 /* Download Buttons */
 
